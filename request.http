@@ -1,0 +1,3 @@
+### Simple GET
+
+GET http://localhost:7071/api/TestOdataSdk?name=Christian
