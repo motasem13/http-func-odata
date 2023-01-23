@@ -11,6 +11,12 @@
       ]
     },
     {
+      "type": "Output_GWSAMPLE_BASIC_SalesOrder",
+      "isMarkdown": false,
+      "direction": "out",
+      "name": "ODataOutputSalesOrder"
+    },
+    {
       "type": "http",
       "direction": "out",
       "name": "res"
